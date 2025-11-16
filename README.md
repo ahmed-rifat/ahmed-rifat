@@ -37,4 +37,4 @@ Conference: Tech Science Press (Accepted)
 👀 Visitor Badge
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ahmed-rifat.ahmed-rifat"/> </p>
 📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/ahmed-rifat/"><img src="https://img.shields.io/badge/LinkedIn-Azure?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ahmedrifat1620@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ahmed-rifat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/ahmedrifat/"><img src="https://img.shields.io/badge/LinkedIn-Azure?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ahmedrifat1620@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ahmed-rifat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
